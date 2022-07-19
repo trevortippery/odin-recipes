@@ -1,0 +1,21 @@
+#taco {
+    background-color: orange;
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+#potatoSalad {
+    background-color: rgb(149, 52, 52);
+    color: rgb(218, 218, 120);
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ricePudding {
+    background-color: whitesmoke;
+    color: rgb(137, 110, 75);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, sans-serif;
